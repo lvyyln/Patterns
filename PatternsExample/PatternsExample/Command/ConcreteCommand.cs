@@ -5,7 +5,7 @@ using static PatternsExample.Program;
 
 namespace PatternsExample.Comman
 {
-    class ConcreteCommand : Command
+    class ConcreteCommand : BaseCommand
     {
         Printer printer;
         public ConcreteCommand(Printer r)

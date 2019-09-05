@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PatternsExample.Comman
 {
-    public abstract class Command
+    public abstract class BaseCommand
     {
         public abstract void Execute();
 

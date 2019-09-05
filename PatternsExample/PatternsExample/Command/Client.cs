@@ -8,8 +8,8 @@ namespace PatternsExample.Comman
 {
     class Client
     {
-        Command command;
-        public void SetCommand(Command c)
+        BaseCommand command;
+        public void SetCommand(BaseCommand c)
         {
             command = c;
         }
