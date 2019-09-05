@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lvyyl\\source\\repos\\PatternsExample\\PatternsExample\\PatternsExample.csproj",
+      "projectUniqueName": "C:\\Users\\lvyyl\\Documents\\Patterns\\PatternsExample\\PatternsExample\\PatternsExample.csproj",
       "projectName": "PatternsExample",
-      "projectPath": "C:\\Users\\lvyyl\\source\\repos\\PatternsExample\\PatternsExample\\PatternsExample.csproj",
+      "projectPath": "C:\\Users\\lvyyl\\Documents\\Patterns\\PatternsExample\\PatternsExample\\PatternsExample.csproj",
       "packagesPath": "C:\\Users\\lvyyl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lvyyl\\source\\repos\\PatternsExample\\PatternsExample\\obj\\",
+      "outputPath": "C:\\Users\\lvyyl\\Documents\\Patterns\\PatternsExample\\PatternsExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,0 +1,11 @@
+C:\Users\lvyyl\Documents\Patterns\PatternsExample\PatternsExample\obj\Debug\netcoreapp2.2\PatternsExample.csprojAssemblyReference.cache
+C:\Users\lvyyl\Documents\Patterns\PatternsExample\PatternsExample\obj\Debug\netcoreapp2.2\PatternsExample.csproj.CoreCompileInputs.cache
+C:\Users\lvyyl\Documents\Patterns\PatternsExample\PatternsExample\obj\Debug\netcoreapp2.2\PatternsExample.AssemblyInfoInputs.cache
+C:\Users\lvyyl\Documents\Patterns\PatternsExample\PatternsExample\obj\Debug\netcoreapp2.2\PatternsExample.AssemblyInfo.cs
+C:\Users\lvyyl\Documents\Patterns\PatternsExample\PatternsExample\bin\Debug\netcoreapp2.2\PatternsExample.deps.json
+C:\Users\lvyyl\Documents\Patterns\PatternsExample\PatternsExample\bin\Debug\netcoreapp2.2\PatternsExample.runtimeconfig.json
+C:\Users\lvyyl\Documents\Patterns\PatternsExample\PatternsExample\bin\Debug\netcoreapp2.2\PatternsExample.runtimeconfig.dev.json
+C:\Users\lvyyl\Documents\Patterns\PatternsExample\PatternsExample\bin\Debug\netcoreapp2.2\PatternsExample.dll
+C:\Users\lvyyl\Documents\Patterns\PatternsExample\PatternsExample\bin\Debug\netcoreapp2.2\PatternsExample.pdb
+C:\Users\lvyyl\Documents\Patterns\PatternsExample\PatternsExample\obj\Debug\netcoreapp2.2\PatternsExample.dll
+C:\Users\lvyyl\Documents\Patterns\PatternsExample\PatternsExample\obj\Debug\netcoreapp2.2\PatternsExample.pdb
